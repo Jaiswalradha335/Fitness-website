@@ -1,3 +1,3 @@
-#This is small fitness website 
+This is small fitness website 
 
 
