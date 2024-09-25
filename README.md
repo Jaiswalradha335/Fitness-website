@@ -1,3 +1,4 @@
-This is small fitness website 
+This is fitness website using html, css and javascript
+
 
 
